@@ -1,2 +1,2 @@
-# Xylophone demo app
+# Xylophone UIKit demo app
 ![](xylophone.gif)
